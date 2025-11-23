@@ -1,0 +1,10 @@
+torch
+torchaudio
+transformers
+librosa
+soundfile
+scikit-learn
+pyngrok
+tqdm
+streamlit
+numpy

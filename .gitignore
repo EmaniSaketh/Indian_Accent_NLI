@@ -1,0 +1,16 @@
+# Compiled Python
+__pycache__/
+*.pyc
+
+# Environment files
+.venv/
+.vscode/
+
+# Large Model Files (CRITICAL to exclude)
+best_nli_model.pth
+*.pt
+
+# Temporary Files
+*.wav
+temp_input.wav
+live_rec.wav
